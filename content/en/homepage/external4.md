@@ -1,7 +1,18 @@
 ---
-title: "Sharepoint"
-weight: 4
+title: "Your Oath"
+header_menu_title: "Your Oath"
+navigation_menu_title: "Your Oath"
+weight: 5
 header_menu: true
-draft: false
-external: https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Home.aspx/
 ---
+# Your Oath
+
+# I promise You
+
+## kindness
+## respect
+## care
+## support
+## growth
+## loyalty
+## love
