@@ -1,7 +1,15 @@
 ---
-title: "Timesheet"
-weight: 3
+title: "My Oath"
+header_menu_title: "My Oath"
+navigation_menu_title: "My Oath"
+weight: 4
 header_menu: true
-draft: false
-external: https://cosdremote.sandiegocounty.gov/?ID=5c0eda70-7bd3-4544-c5e9-54ef5484db9a#/login
 ---
+# My Oath
+
+## Be Kind
+## Treasure You
+## Make Each Day Count
+## Love and Respect
+## You Are Forever Mine
+## I Am Yours
