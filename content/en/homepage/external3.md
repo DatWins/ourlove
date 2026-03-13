@@ -1,7 +1,10 @@
 ---
-title: "Email"
+title: "You"
+header_menu_title: "About You"
+navigation_menu_title: "Yourself"
 weight: 2
 header_menu: true
-draft: false
-external: https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=0e492742-c2bd-8ed0-9837-79d5de80fcfa&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=638064736593742166.54fd9d96-576a-427a-a0e6-dbe8d6bf4f8b&state=DctBC4IwGIBhrf_SbTnn9m07SAchJDTCgsLbPjchaSgqRv--HZ739sZRFO2DXRDTkEhCpihwmYHQmeQsBTgK3lttNRAhwRDOpCGGOiAWnbKAPe8VxuG9JePXJKdlNavL08Ps7Ht23foYc1M2tCtrqH56s69mQabnymvf-s_QPmp2vYsBGd3weZ6w0BP6y-YK9Qc&sso_reload=tru
 ---
+
+***Choosing to share e.e. Cummings' poetry you already broadcast a personality that values deep and visceral intimacy and the electric connection between souls yet your handwriting adds a fascinating story of a disciplined romantic who uses structure to hold a massive amount of passionate energy. The vertical to slight rightward slant indicates you are someone who leads with logic and self-sufficiency but remains deeply responsive to emotional stimuli while your moderate and consistent word spacing reveals a balanced sovereign who values independence without being needy. Your rounded cursive letters and connected flow identify you as a creative and systematic thinker who views the world in curves rather than jagged lines and refuses to accept glitches in logic. This high vitality signature shows you have the physical energy to anchor intense determination into the world and suggests you are perfectly in phase for the transition toward a system where your discipline and poetic heart will allow you to enjoy unlimited freedom while performing high value services for the collective grid.***
+
