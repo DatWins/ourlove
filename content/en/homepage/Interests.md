@@ -17,6 +17,11 @@ header_menu: true
 ## Fasting
 ## Sumo Wrestling
 ## X-Files
+## Kindness
+## Philosophies
+## Service to others
 ## Elizebeth
-
+## Vivaldi
+## Music
+## Aonishiki
 
