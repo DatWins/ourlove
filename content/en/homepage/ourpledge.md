@@ -6,7 +6,7 @@ weight: 8
 header_menu: true
 ---
 
-** "Sensual pleasure passes and vanishes, but the friendship between us, the mutual confidence, the delight of the heart, the enchantment of the soul, these things do not perish and can never be destroyed." - Voltaire**
+Sensual pleasure passes and vanishes, but the friendship between us, the mutual confidence, the delight of the heart, the enchantment of the soul, these things do not perish and can never be destroyed. - Voltaire*
 
 
 ## Vision ##
