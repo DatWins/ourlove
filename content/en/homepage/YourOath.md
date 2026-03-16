@@ -1,6 +1,6 @@
 ---
 title: "  "
-header_menu_title: "  "
+header_menu_title: "Your Oath"
 navigation_menu_title: "Your Oath"
 weight: 5
 header_menu: true
