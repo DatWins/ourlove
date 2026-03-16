@@ -11,7 +11,7 @@ header_menu: true
 
 ## Vision ##
 
-### Creating and enhancing joy, happiness, and kindness; Encouragin adventure and passion for growth/learning. ###
+### Creating and enhancing joy, happiness, and kindness; Encouraging adventure and passion for growth/learning. ###
 
 
 ## Mission ##
