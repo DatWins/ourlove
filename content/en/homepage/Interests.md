@@ -5,7 +5,7 @@ navigation_menu_title: "Shared Interests"
 weight: 7
 header_menu: true
 ---
-# Our Interests
+
 
 ## Books
 ## Action Movies
