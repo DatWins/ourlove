@@ -1,5 +1,5 @@
 ---
-title: "Pi Day Celebration"
+title: "  "
 header_menu_title: "Pi Day"
 navigation_menu_title: "Togetherness"
 weight: 99
