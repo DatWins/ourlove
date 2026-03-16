@@ -7,12 +7,7 @@ header_menu: true
 ---
 # Your Oath
 
-# I promise You
+## Without reserve, all my heart is bound to yours alone, with earnest respect, devoted care and my deepest love,
 
-## kindness
-## respect
-## care
-## support
-## growth
-## loyalty
-## love
+## Always
+
