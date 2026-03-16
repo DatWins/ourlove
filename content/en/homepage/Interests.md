@@ -24,4 +24,6 @@ header_menu: true
 ## Vivaldi
 ## Music
 ## Aonishiki
+## Trees
+## Chess
 
