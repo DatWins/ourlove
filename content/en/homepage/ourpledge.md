@@ -20,4 +20,6 @@ header_menu: true
 ### 1. To compromise and to understand ###
 ### 2. To put a smile on a face ###
 ### 3. To remain kind, calm, and gentle in times of adversity ###
+### 4. To shower other with daily love, care, and affection ###
+### 5. To share notes, humor, and interesting observation so to help other passing the day ### 
 
