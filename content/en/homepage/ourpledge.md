@@ -17,5 +17,5 @@ header_menu: true
 ## Mission ##
 ### 1. To compromise and to understand ###
 ### 2. To put a smile on a face ###
-### 3. Remain kind, calm, and gentle in times of adversity ###
+### 3. To remain kind, calm, and gentle in times of adversity ###
 
