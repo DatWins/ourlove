@@ -26,4 +26,5 @@ header_menu: true
 ## Aonishiki
 ## Trees
 ## Chess
+## Thirst of knowledge
 
