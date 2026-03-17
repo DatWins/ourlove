@@ -22,4 +22,5 @@ header_menu: true
 ### 3. To remain kind, calm, and gentle in times of adversity ###
 ### 4. To shower other with daily love, care, and affection ###
 ### 5. To share notes, humor, and interesting observation so to help other passing the day ### 
+### 6. To be honest and trust each other unconditionally ###
 
