@@ -24,5 +24,5 @@ header_menu: true
 ### 5. To share notes, humor, and interesting observation so to help other passing the day ### 
 ### 6. To be honest and trust each other unconditionally ###
 ### 7. To resolve conflicts amicably thru calm manners and never raise voices to each other, remembering we are two people who love each other deeply ###
-### 8. 8) Always start and end the day expressing feeling of love for each other ###
+### 8. To always start and end the day expressing feeling of love for each other ###
 
