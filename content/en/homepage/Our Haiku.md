@@ -6,10 +6,6 @@ weight: 9
 header_menu: true
 ---
 
-<a href="https://sarahlukelovehaiku.netlify.app/
-" target="_blank">Our Haiku</a>
-
-
-[Our Haiku](https://sarahlukelovehaiku.netlify.app/
+### [Our Haiku](https://sarahlukelovehaiku.netlify.app/
 ){:target="_blank"}
 
