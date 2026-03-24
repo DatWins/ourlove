@@ -18,13 +18,11 @@ header_menu: true
 ## Jelle: His Tepid Queen
 
 ## Missy: Rings and Kisses
-   ## (Missy responds after Jelle)
-
+  
 ## Pine: Let’s all cheer
 
 ## Missy: Dance, eat pies!
-  ## (Missy responds after Pine)
-
+  
 ## SBawlin:  Everyone let’s dance (Music video link)
  		
 ## Tepid: Your participation appreciated. 
