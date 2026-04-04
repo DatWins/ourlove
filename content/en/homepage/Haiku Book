@@ -1,7 +1,9 @@
 ---
 title: "Haiku Book"
+header_menu_title: "Book"
+navigation_menu_title: "Haiku Book"
 weight: 99
 header_menu: true
-draft: false
-external: https://drive.google.com/file/d/11j2j-e6faXzVKbOqWRYSwAJzOt66UE9T/view?usp=sharing
 ---
+# This is the collection of links commonly used. The most important ones are ones on the front menu. Press CONTROL + THE LINKS to go on another page.
+- {{<extlink text="A Haiku Anthology" href="https://drive.google.com/file/d/11j2j-e6faXzVKbOqWRYSwAJzOt66UE9T/view?usp=sharing" icon="fa fa-external-link">}}
