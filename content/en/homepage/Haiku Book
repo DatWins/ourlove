@@ -2,7 +2,7 @@
 title: "Haiku Book"
 header_menu_title: "Book"
 navigation_menu_title: "Haiku Book"
-weight: 13
+weight: 10
 header_menu: true
 ---
 - {{<extlink text="A Haiku Anthology" href="https://drive.google.com/file/d/11j2j-e6faXzVKbOqWRYSwAJzOt66UE9T/view?usp=sharing" icon="fa fa-external-link">}}
