@@ -5,8 +5,9 @@ navigation_menu_title: "Shared Interests"
 weight: 7
 header_menu: true
 ---
-
-
+- {{<extlink text="A Haiku Anthology" href="https://drive.google.com/file/d/11j2j-e6faXzVKbOqWRYSwAJzOt66UE9T/view?usp=sharing" icon="fa fa-external-link">}}
+- {{<extlink text="Los Angeles Dodgers" href="https://justlovebaseball.netlify.app/" icon="fa fa-external-link">}}
+- {{<extlink text="Creating Beautiful Handwriting" href="https://lovewriting.netlify.app/" icon="fa fa-external-link">}}
 ## Books
 ## Action Movies
 ## Martial Art movies
